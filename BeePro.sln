@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeePro", "BeePro.csproj", "{02666279-7DEC-4041-A1C7-1F3460460558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02666279-7DEC-4041-A1C7-1F3460460558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02666279-7DEC-4041-A1C7-1F3460460558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02666279-7DEC-4041-A1C7-1F3460460558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02666279-7DEC-4041-A1C7-1F3460460558}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA445E67-02CC-48B6-B9F6-06F94CAEDB0E}
+	EndGlobalSection
+EndGlobal
