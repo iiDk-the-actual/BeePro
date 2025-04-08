@@ -1,4 +1,3 @@
-A bee-themed camera mod for Gorilla Tag
 # BeePro
 A mod for Gorilla Tag that lets you ragdoll like Garry's Mod.
 
