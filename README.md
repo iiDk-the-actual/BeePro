@@ -11,7 +11,9 @@ I will comply if any parties wish this to be taken down.
 # Controls
 - Open GUI: Grab and Stretch Motion
 - Close GUI: Both Grips + Both Joysticks Down
+- Toggle PC GUI: Left Shift
 - Click Buttons: Right Trigger
+- Grab Camera: Left / Right Trigger
 
 ---
 
